@@ -94,6 +94,7 @@ public class AsciiArt {
                     letters[k][i]=lines[i].substring(last,j);  //截取从last到j-1列
                 last = j+1;
                 k++;
+                ;
 
 
 
